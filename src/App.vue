@@ -1,7 +1,9 @@
 <template>
   <div>
-    <div class="logo">Your Logo</div>
-    <wallet-info></wallet-info>
+    <header>
+      <div class="logo">Secret Auctions</div>
+      <wallet-info></wallet-info>
+    </header>
   </div>
 </template>
 
