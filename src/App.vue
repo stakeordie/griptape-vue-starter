@@ -1,5 +1,7 @@
 <template>
-
+  <div>
+    <wallet-info></wallet-info>
+  </div>
 </template>
 
 <script>
