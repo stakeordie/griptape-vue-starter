@@ -1,7 +1,7 @@
 <template>
   <div>
     <header>
-      <div class="logo">Secret Auctions</div>
+      <div class="logo">New Griptape App</div>
       <wallet-info></wallet-info>
     </header>
   </div>
