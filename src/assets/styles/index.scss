@@ -44,6 +44,7 @@ header {
   grid-column-gap: var(--gutter);
   grid-auto-columns: max-content;
   align-items: center;
+  justify-content: space-between;
 
   .logo {
     font-family: 'Montserrat', sans-serif;
