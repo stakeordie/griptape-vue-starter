@@ -1,0 +1,40 @@
+// Importing styling for built-in components
+@import "~/@stakeordie/griptape-vue.js/dist/style.css";
+
+// You can remove this
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
+
+:root {
+  --g-font-family: "Fira Code";
+  --g-font-size: 16px;
+  --g-h1-font-size: 38px;
+
+  --g-background-color: #202124;
+  --g-gutter: 16px;
+
+  --g-color-primary: #00e2ac
+}
+
+html {
+  font-family: var(--g-font-family), monospace;
+  font-size: var(--g-font-size);
+}
+
+body {
+  background-color: var(--g-background-color);
+  color: white;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+h1 { font-size: var(--g-h1-font-size) }
+
+a {
+  color:    var(--g-color-primary);
+  &:visited { color: var(--g-color-primary) }
+  &:hover   { color: var(--g-color-primary) }
+  &:active  { color: var(--g-color-primary) }
+}
