@@ -13,5 +13,6 @@
     "@vitejs/plugin-vue": "^1.2.3",
     "@vue/compiler-sfc": "^3.0.5",
     "vite": "^2.3.8"
-  }
+  },
+  "license": "MIT"
 }
