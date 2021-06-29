@@ -12,4 +12,4 @@ yarn
 yarn dev
 ```
 
-Then, got to [http://localhost:3000](http://localhost:3000)
+Then, go to [http://localhost:3000](http://localhost:3000).
